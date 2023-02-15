@@ -14,7 +14,7 @@
     "@alilc/lowcode-datasource-engine": "^1.0.0",
     "@alilc/lowcode-datasource-url-params-handler": "^1.0.0",
     "@alilc/lowcode-datasource-fetch-handler": "^1.0.0",
-    "@alifd/next": "1.19.18"
+    "@alifd/next": "1.26.12"
   },
   "devDependencies": {
     "@ice/spec": "^1.0.0",
