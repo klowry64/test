@@ -44,7 +44,7 @@
   "license": "MIT",
   "dependencies": {
     "ajv": "^6.12.0",
-    "ast-types": "^0.13.3",
+    "ast-types": "^0.16.0",
     "cross-spawn-promise": "^0.10.2",
     "debug": "^4.1.1",
     "find-config": "^1.0.0",
