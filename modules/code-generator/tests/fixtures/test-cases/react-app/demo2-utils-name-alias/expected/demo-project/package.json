@@ -16,7 +16,7 @@
     "@alilc/b6-page": "^0.1.0",
     "@alilc/b6-text": "^0.1.0",
     "@alilc/b6-compact-legao-builtin": "1.x",
-    "antd": "3.x",
+    "antd": "4.0.0",
     "@alilc/b6-util-mocks": "1.x"
   },
   "devDependencies": {
